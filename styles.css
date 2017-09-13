@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Forum');
+
+header{
+    position: relative;
+    background-color: #FF4081;
+}
+
+nav{
+    background-color: black;
+    border: none;
+    padding-right: 5%;
+    text-align: right;
+}
+a{
+    font-family: "Acme";
+    display: inline;
+    color: ghostwhite;
+    text-decoration: none;
+    text-align: center;   
+    padding: 10px;
+    border-right: 1px solid white;
+}
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: #FF4081;    
+}
+
+h1{
+    font-family: 'Acme', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+strong{
+    font-size: 300%;
+}
+
+body{
+    background-color: black;
+}
+
+ul{
+    list-style;
+}
+li{
+    color: whitesmoke;
+}
+div{
+    display: block;
+}
